@@ -1,2 +1,2 @@
 # domino
-Fajna apka do grania w domino z komputerem. 
+Jakiśtam program do grania w domino z komputerem. 
